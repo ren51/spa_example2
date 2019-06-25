@@ -7,11 +7,11 @@
   "scope": "/", //いじる必要なし
   "start_url": "https://eager-gates-aa8ea3.netlify.com/",　//サイト名
   "icons": [{
-      "src": "images/ico/apple-touch-icon.png",　//下記サイズの画像ファイルのパスを記載
+      "src": "janken192.png",　//下記サイズの画像ファイルのパスを記載
       "sizes": "192x192",　//必要な画像サイズ
       "type": "image/png"　//いじる必要なし
     }, {
-      "src": "images/ico/apple-touch-icon.png",
+      "src": "janken512.png",
       "sizes": "512x512",
       "type": "image/png"
     }],
