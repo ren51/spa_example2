@@ -1,7 +1,6 @@
-
 var CACHE_NAME = 'pwa-sample-caches';
 var urlsToCache = [
-    '/poster-keisuke.github.io/',
+    '/eager-gates-aa8ea3.netlify.com/',
 ];
 
 // インストール処理
