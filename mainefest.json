@@ -1,11 +1,11 @@
 {
-  "name": "jam25",　//ここをサイト名に
-  "short_name": "jam25", //ここをサイト名に
+  "name": "gonsan",　//ここをサイト名に
+  "short_name": "saishohagu!", //ここをサイト名に
   "theme_color": "#2196f3", //好きなカラーコードを設定
   "background_color": "#2196f3", //好きなカラーコードを設定
   "display": "standalone", //いじる必要なし
   "scope": "/", //いじる必要なし
-  "start_url": "/jam25.jp",　//サイト名
+  "start_url": "/gonsan.jp",　//サイト名
   "icons": [{
       "src": "images/ico/apple-touch-icon.png",　//下記サイズの画像ファイルのパスを記載
       "sizes": "192x192",　//必要な画像サイズ
